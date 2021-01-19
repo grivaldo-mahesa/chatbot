@@ -1,0 +1,6 @@
+How to use :
+
+1. Download dan Install Xampp(klo blum ada), open xampp control, start apache dan mysql
+2. copy folder chatbot ke directory htdocs di xampp => C:\xampp\htdocs
+3. buat database bot di phpmyadmin => [localhost/phpmyadmin/]. import bot.sql yg ada dalam folder chatbot di database bot.
+4. run the program => [localhost/chatbot/bot.php] 
